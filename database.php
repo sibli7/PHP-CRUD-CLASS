@@ -5,7 +5,7 @@ class Database{
 	private $db_host = "localhost";
 	private $db_user = "root";
 	private $db_pass = "";
-	private $db_name = "newtest";
+	private $db_name = "crud_class_db";
 
 	private $mysqli = "";
 	private $result = array();
